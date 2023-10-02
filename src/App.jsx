@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { StreamChat } from 'stream-chat';
 import { Chat } from 'stream-chat-react';
 import { ChannelContainer,ChannelListContainer } from './components';
+import "./App.css";
 import Cookies from 'universal-cookie';
 const apiKey = '68avshree48h';
 const client = StreamChat.getInstance(apiKey);
