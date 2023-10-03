@@ -1,5 +1,5 @@
-
-https://github.com/shahzad84/Chatroom_realtime/assets/108673384/7ab76e94-03f9-4b2b-ae77-569e68b4f092
+[![Watch the video]
+(https://github.com/shahzad84/Chatroom_realtime/assets/108673384/7ab76e94-03f9-4b2b-ae77-569e68b4f092)]
 ![Image description](src/assets/s.png)
 # Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
